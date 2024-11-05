@@ -1,0 +1,33 @@
+h1, h2, h3 {
+    color: #6E2C2C; 
+    font-family: 'Brush Script MT', cursive;
+}
+p, body{
+    color: #8B4C4C; 
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.aykut{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid #e5b7b7;
+}
+.bolum1{
+    background-color: #d2d1d1;
+}
+.bolum2{
+    background-color: #d2d1d1;
+}
+.bolum3{
+    background-color: #d1c5be
+}
+.kart{
+    display: flex;
+    justify-content: center;
+}
+.office{
+    border-radius: 5%;
+}
+.card{
+    border-radius: 5%;
+}
